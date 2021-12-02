@@ -3,7 +3,7 @@
 #include <avr/interrupt.h>
 
 #define F_CPU 16000000UL
-
+#define __AVR_ATmega2560__
 
 
 // void setup() {
